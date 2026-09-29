@@ -1,0 +1,8 @@
+report_type,location,department,description
+Near Miss,Drilling Site A,Operations,Worker entered vessel without gas testing during scheduled maintenance
+Unsafe Condition,Rig Floor 2,Drilling,Scaffolding at height lacked edge protection and fall arrest anchor points
+Unsafe Act,Processing Unit B,Maintenance,Technician performed hot work near flammable storage without a hot work permit
+Near Miss,Wellhead Site C,Operations,Lockout/tagout was incomplete before valve maintenance energy source remained live
+Unsafe Condition,Tank Farm 1,Storage,Atmospheric hazard detected near storage tank no standby attendant present during entry
+Unsafe Act,Pipeline Corridor,Logistics,Vehicle reversed in an active work zone without a spotter line of fire exposure
+Near Miss,Crane Yard,Lifting Operations,Rigging equipment used for lift had not been inspected load path crossed personnel walkway

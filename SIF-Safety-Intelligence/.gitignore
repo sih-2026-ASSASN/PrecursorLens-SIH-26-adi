@@ -1,0 +1,20 @@
+# Node
+node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.egg-info/
+.env
+
+# Data
+data/uploads/*
+!data/uploads/.gitkeep
+
+# OS/editor
+.DS_Store
+.vscode/
+*.log

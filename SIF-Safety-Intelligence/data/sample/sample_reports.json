@@ -1,0 +1,26 @@
+[
+  {
+    "report_type": "Unsafe Condition",
+    "location": "Drilling Site A",
+    "department": "Operations",
+    "description": "Missing standby attendant at confined space entry point during pump inspection"
+  },
+  {
+    "report_type": "Near Miss",
+    "location": "Rig Floor 2",
+    "department": "Drilling",
+    "description": "Worker at height without fall protection while adjusting mast lighting"
+  },
+  {
+    "report_type": "Unsafe Condition",
+    "location": "Wellhead Site C",
+    "department": "Operations",
+    "description": "Gas testing equipment was expired entry proceeded without valid atmospheric testing"
+  },
+  {
+    "report_type": "Near Miss",
+    "location": "Tank Farm 1",
+    "department": "Storage",
+    "description": "Minor spill contained quickly no injury standard cleanup procedure followed"
+  }
+]
